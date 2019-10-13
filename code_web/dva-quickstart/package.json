@@ -25,7 +25,7 @@
     "roadhog-api-doc": "^1.1.2",
     "sass": "^1.22.7",
     "sass-loader": "^7.1.0",
-    "yarn": "^1.9.4",
+    "yarn": "^1.17.3",
     "rc-drawer": "latest"
   },
   "devDependencies": {
